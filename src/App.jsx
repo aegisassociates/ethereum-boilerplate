@@ -128,18 +128,7 @@ const App = ({ isServerInfo }) => {
       </Router>
       <Footer style={{ textAlign: "center" }}>
         <Text style={{ display: "block" }}>
-          ⭐️ Please star this{" "}
-          <a href="https://github.com/ethereum-boilerplate/ethereum-boilerplate/" target="_blank" rel="noopener noreferrer">
-            boilerplate
-          </a>
-          , every star makes us very happy!
-        </Text>
-
-        <Text style={{ display: "block" }}>
-          🙋 You have questions? Ask them on the {""}
-          <a target="_blank" rel="noopener noreferrer" href="https://forum.moralis.io/t/ethereum-boilerplate-questions/3951/29">
-            Moralis forum
-          </a>
+          Proof of concept using React JS and Moralis by Fadli Saad
         </Text>
 
         <Text style={{ display: "block" }}>
